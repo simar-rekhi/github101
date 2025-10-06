@@ -1,7 +1,7 @@
 # Simar's GitHub 101
 
 ## Setting Up `git`
-- install [Git]([url](https://git-scm.com/))
+- install Git: https://git-scm.com/
 - Configure your name/email: `git config --global user.name "Your Name"` and `git config --global user.email "you@example.com"`
 
 ## Creating a New Repository
